@@ -1,1 +1,1 @@
-# adventofcode-js-2018
+# adventofcode-ts-2018
